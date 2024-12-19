@@ -1,7 +1,7 @@
 import getpass
 import os
-import time
 import random
+import time
 
 def rotate_row(row, shift):
     """Rotate a row to the left"""
