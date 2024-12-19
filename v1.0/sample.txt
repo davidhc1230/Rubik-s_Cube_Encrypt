@@ -1,0 +1,21 @@
+# Sample account information for various websites
+
+# Website: google.com
+Username: johndoe
+Password: P@ssw0rd123
+
+# Website: facebook.com
+Username: janedoe
+Password: S3cur3P@ss
+
+# Website: twitter.com
+Username: user123
+Password: MyP@ssw0rd!
+
+# Website: linkedin.com
+Username: sampleuser
+Password: S@mpleP@ss
+
+# Website: instagram.com
+Username: testuser
+Password: T3stP@ssw0rd
